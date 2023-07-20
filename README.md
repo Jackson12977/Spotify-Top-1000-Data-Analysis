@@ -9,4 +9,4 @@ iv. Artist with the most revenue generated.
 v. Song that generated the most revenue.
 
 
-My major problem analyzing this dataset was that there was no specified amount per stream so i did my calculation and also i don't how up to date it is.
+My major problem analyzing this dataset was that there was no specified amount per stream so i did my calculation and also i don't know how up to date this dataset is.
