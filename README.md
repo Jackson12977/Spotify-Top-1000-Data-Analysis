@@ -4,7 +4,7 @@ This spotify dataset was gotten from https://www.kaggle.com/datasets/rakkesharv/
 Some questions answered by this Analysis;
 i. Best streamed artist on spotify.
 ii. Most streamed song on spotify.
-iii. Artist and hoe many times they've been in top ten.
+iii. Artist and how many times they've been in top ten.
 iv. Artist with the most revenue generated.
 v. Song that generated the most revenue.
 
